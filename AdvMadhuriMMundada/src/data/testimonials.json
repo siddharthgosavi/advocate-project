@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "EMILIANO AQUILANI",
+    "profession": "Office Worker",
+    "image": "https://i.ibb.co/d5DY64w/img1.jpg",
+    "text": "Dramatically maintain clicks-and-mortar solutions without functional solutions. Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate."
+  },
+  {
+    "id": 2,
+    "name": "Jennifer Smith",
+    "profession": "Advisor",
+    "image": "https://i.ibb.co/5FF1vqz/img2.jpg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet."
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "profession": "Athelete",
+    "image": "https://i.ibb.co/Trv7hDv/img3.jpg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet."
+  },
+  {
+    "id": 4,
+    "name": "Hellen Wright",
+    "profession": "Financial Advisor",
+    "image": "https://i.ibb.co/5FF1vqz/img2.jpg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet."
+  }
+]
